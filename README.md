@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 </div>
 
 <!-- LINE -->
-
 ##
 
 <!-- GITHUB STATS END LANGUAGES -->
@@ -53,10 +52,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/leandrowilliams">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrowilliams&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowilliams&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
-  
-  
-    <!-- GIF -->
+</div></a>
+   
+ <!-- GIF -->
  <div style="display: inline_block"><br>
   <img align="right" alt="leandrowilliams-oTodoPoderoso-gif" height="150" style="border-radius:50px;" src="https://cdn.ome.lt/xrNgchrpPa0mDFgJ7T4nQbIDrT0=/fit-in/837x500/smart/uploads/conteudo/fotos/Lista10.gif">
 </div>
