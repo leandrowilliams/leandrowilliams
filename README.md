@@ -22,7 +22,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif">
 </div>
 
 <div><br>  
@@ -31,8 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Vscode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Rafa-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" alt="Rafa-Figma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  <i class="devicon-github-original"></i>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif">
   
 </div>
 
