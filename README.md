@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 ##
 
 <!-- GITHUB STATS END LANGUAGES -->
-<div>
+<div align="left">
   <a href="https://github.com/leandrowilliams">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=leandrowilliams&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</div><!-- --><div>
+</div><!-- --><div align="right">
   <a href="https://github.com/leandrowilliams">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowilliams&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
