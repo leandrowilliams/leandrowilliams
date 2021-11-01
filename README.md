@@ -70,7 +70,6 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/leandrowilliams" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lelecowilliams" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:leandrowilliamsdasilvaalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img style="margin:50px;" align="right" alt="leandrowilliams-oTodoPoderoso-gif" height="150" style="border-radius:50px;" src="https://cdn.ome.lt/xrNgchrpPa0mDFgJ7T4nQbIDrT0=/fit-in/837x500/smart/uploads/conteudo/fotos/Lista10.gif">
 </div>
     
 <!-- SNAKE GAMES -->
