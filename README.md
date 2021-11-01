@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- LINE -->
 ##
 
-<!-- GITHUB STATS END LANGUAGES -->
+<!-- GITHUB STATS / MATRIX -->
 </br>
 <div>
   <a href="https://github.com/leandrowilliams">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ##
   
-  <!-- Languagem icons /JAVA/JS/REACT/HTML/CSS/GIT -->
+  <!-- Languagem icons /JAVA/JS/REACT/HTML/CSS -->
 <div style="display: inline_block"><br>
   <img align="center" alt="leandrowilliams-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="leandrowilliams-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <img align="center" alt="leandrowilliams-Linux" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div></br>
 
+<!-- LANGUAGES -->
   <div align="center">
   <a href="https://github.com/leandrowilliams">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowilliams&layout=compact&langs_count=7&theme=gruvbox"/>
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
 
 </a>
 
+<!-- GIF -->
 <div>
 <img style="margin:50px;" align="right" alt="leandrowilliams-oTodoPoderoso-gif" height="200" style="border-radius:50px;" src="https://cdn.ome.lt/xrNgchrpPa0mDFgJ7T4nQbIDrT0=/fit-in/837x500/smart/uploads/conteudo/fotos/Lista10.gif">
 </div>
