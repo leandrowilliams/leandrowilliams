@@ -51,10 +51,12 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/leandrowilliams">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrowilliams&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowilliams&layout=compact&langs_count=7&theme=gruvbox"/>
-</div><!-- --><div align="right">
+  <img align="right" alt="leandrowilliams-Matrix-gif" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif">
+</div>
+  
+  <div>
   <a href="https://github.com/leandrowilliams">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowilliams&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrowilliams&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
  <!-- GIF -->
