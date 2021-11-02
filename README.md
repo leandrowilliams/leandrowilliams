@@ -80,12 +80,13 @@ Here are some ideas to get you started:
 </div>
     
 <!-- SNAKE GAMES -->
+<a href="https://github.com/leandrowilliams">
 <div> 
   </a> 
  
   ![Snake animation](https://github.com/leandrowilliams/leandrowilliams/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+</a>
 
 
