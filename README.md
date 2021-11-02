@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img align="center" alt="leandrowilliams-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leandrowilliams-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="leandrowilliams-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="leandrowilliams-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="leandrowilliams-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> </a>
 <!-- Languagem icons /MYSQL/SPRING/VSCODE/DOCKER/FIGMA/GIFMATRIX -->
   <img align="center" alt="leandrowilliams-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="leandrowilliams-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
