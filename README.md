@@ -35,18 +35,18 @@ Here are some ideas to get you started:
   <!-- Languagem icons /JAVA/JS/REACT/HTML/CSS -->
 <div style="display: inline_block"><br>
   <img align="center" alt="leandrowilliams-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="leandrowilliams-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="leandrowilliams-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> </a>
   <img align="center" alt="leandrowilliams-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="leandrowilliams-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="leandrowilliams-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="leandrowilliams-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> </a>
 <!-- Languagem icons /MYSQL/SPRING/VSCODE/DOCKER/FIGMA/GIFMATRIX -->
-  <img align="center" alt="leandrowilliams-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="leandrowilliams-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <a href="https://www.mysql.com/" target="_blank"> <img align="center" alt="leandrowilliams-Mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> </a>
+  <a href="https://spring.io/" target="_blank"> <img align="center" alt="leandrowilliams-Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> </a>
   <img align="center" alt="leandrowilliams-Vscode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="leandrowilliams-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="leandrowilliasm-Figma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<!-- OPERATIONAL SYSTEM icons /WINDOWS/LINUX -->
-<img align="center" alt="leandrowilliams-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href="https://www.figma.com/" target="_blank"> <img align="center" alt="leandrowilliasm-Figma" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> </a>
+<!-- OPERATIONAL SYSTEM icons /GIT/WINDOWS/LINUX -->
+<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="leandrowilliams-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> </a>
 <img align="center" alt="leandrowilliams-Windows" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="center" alt="leandrowilliams-Linux" height="60" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div></br>
