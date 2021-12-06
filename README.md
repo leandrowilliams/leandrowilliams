@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Olá eu sou o Leandro Williams 👋 pt-BR
 ### Hi I'm Leandro Williams 👋 en-US
+😄 Pronouns: He/Ele
 </a>
 
 <!-- LINE -->
