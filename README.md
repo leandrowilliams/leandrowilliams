@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <!-- -->
 
 
-Formado na @generationbrasil e @senai.sp</br>
+Formado na <a href="https://www.instagram.com/generationbrasil/">@generationbrasil</a> e <a href="https://www.instagram.com/senai.sp/">@senai.sp</a></br>
 😄 Pronouns: He/Ele</br>
-💻 Developer
-👨‍💻 Technology enthusiast 🤖
+💻 Developer</br>
+👨‍💻 Technology enthusiast 🤖</br>
 🎮 Casual gamer
 </a>
 
