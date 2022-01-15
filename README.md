@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 ### Olá eu sou o Leandro Williams 👋 pt-BR
 ### Hi I'm Leandro Williams 👋 en-US
 😄 Pronouns: He/Ele
+Formado na @generationbrasil e @senai.sp
+💻 Developer
+👨‍💻 Technology enthusiast 🤖
+🎮 Casual gamer
 </a>
 
 <!-- LINE -->
