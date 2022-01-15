@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Olá eu sou o Leandro Williams 👋 pt-BR
+### Hi I'm Leandro Williams 👋 en-US
 -->
 <!-- -->
 
 
-### Olá eu sou o Leandro Williams 👋 pt-BR
-### Hi I'm Leandro Williams 👋 en-US
-😄 Pronouns: He/Ele
-Formado na @generationbrasil e @senai.sp
+Formado na @generationbrasil e @senai.sp</br>
+😄 Pronouns: He/Ele</br>
 💻 Developer
 👨‍💻 Technology enthusiast 🤖
 🎮 Casual gamer
