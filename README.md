@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <!-- -->
 
 
-Formado na <a href="https://www.instagram.com/generationbrasil/">@generationbrasil</a> e <a href="https://www.instagram.com/senai.sp/">@senai.sp</a></br>
+Formado na <a href="https://www.instagram.com/generationbrasil/">@generationbrasil</a> com <a href="https://www.instagram.com/brasscomoficial/">@brasscomoficial</a> e <a href="https://www.instagram.com/senai.sp/">@senai.sp</a></br>
 😄 Pronouns: He/Ele</br>
+#OpenToWork 🚀 </br>
 💻 Developer</br>
 👨‍💻 Technology enthusiast 🤖</br>
 🎮 Casual gamer
