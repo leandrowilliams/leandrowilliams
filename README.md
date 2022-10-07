@@ -21,7 +21,7 @@ Formado na <a href="https://www.instagram.com/generationbrasil/">@generationbras
 😄 Pronouns: He/Ele</br>
 #OpenToWork 🚀 </br>
 :computer: Developer #Software House and RPA:robot: </br>
-👨‍💻 Technology enthusiast 🤖</br>
+:man_mage:Technology enthusiast</br>
 🎮 Casual gamer
 </a>
 
